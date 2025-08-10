@@ -10,6 +10,3 @@ Input:
 Output
    simple interest = p*t*r
 ```
-
----
-This repository is prepared for the IBM Skills Network lab “Final Project: Part 1 – GitHub UI”.
